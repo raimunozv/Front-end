@@ -1,5 +1,59 @@
 header {
-    font-size: 60px;
     text-align:  center;
+    margin-bottom: 30px;
+    background-color: #E6E6E6;
 
+}
+
+h1{font-size: 100;
+background-color: #C4C4C4;
+color: #005677;
+font-style: ;
+font-family: 'Times New Roman', Times, serif ;
+
+
+}
+
+.titulolista {
+    color: #005677;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #C4C4C4;
+    background-size: auto;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.listas{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;;
+    background-size: auto;
+    line-height: 23px;
+    font-weight: 700;
+
+}
+
+.punteoitalic {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.punteo {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 37px;
+    color: white;
+    text-align:  center;
+    background-color: #005677;
+}
+
+.footerelement {
+margin-left: 26px;
 }
